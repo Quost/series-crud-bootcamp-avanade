@@ -1,0 +1,16 @@
+/home/matheusquost/Documentos/DIO/Bootcamps/Avenade/Criando um APP simples de cadastro de séries em .NET/Bootcamps.Avenade.Series/bin/Debug/net5.0/Bootcamps.Avenade.Series
+/home/matheusquost/Documentos/DIO/Bootcamps/Avenade/Criando um APP simples de cadastro de séries em .NET/Bootcamps.Avenade.Series/bin/Debug/net5.0/Bootcamps.Avenade.Series.deps.json
+/home/matheusquost/Documentos/DIO/Bootcamps/Avenade/Criando um APP simples de cadastro de séries em .NET/Bootcamps.Avenade.Series/bin/Debug/net5.0/Bootcamps.Avenade.Series.runtimeconfig.json
+/home/matheusquost/Documentos/DIO/Bootcamps/Avenade/Criando um APP simples de cadastro de séries em .NET/Bootcamps.Avenade.Series/bin/Debug/net5.0/Bootcamps.Avenade.Series.runtimeconfig.dev.json
+/home/matheusquost/Documentos/DIO/Bootcamps/Avenade/Criando um APP simples de cadastro de séries em .NET/Bootcamps.Avenade.Series/bin/Debug/net5.0/Bootcamps.Avenade.Series.dll
+/home/matheusquost/Documentos/DIO/Bootcamps/Avenade/Criando um APP simples de cadastro de séries em .NET/Bootcamps.Avenade.Series/bin/Debug/net5.0/ref/Bootcamps.Avenade.Series.dll
+/home/matheusquost/Documentos/DIO/Bootcamps/Avenade/Criando um APP simples de cadastro de séries em .NET/Bootcamps.Avenade.Series/bin/Debug/net5.0/Bootcamps.Avenade.Series.pdb
+/home/matheusquost/Documentos/DIO/Bootcamps/Avenade/Criando um APP simples de cadastro de séries em .NET/Bootcamps.Avenade.Series/obj/Debug/net5.0/Bootcamps.Avenade.Series.csproj.AssemblyReference.cache
+/home/matheusquost/Documentos/DIO/Bootcamps/Avenade/Criando um APP simples de cadastro de séries em .NET/Bootcamps.Avenade.Series/obj/Debug/net5.0/Bootcamps.Avenade.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheusquost/Documentos/DIO/Bootcamps/Avenade/Criando um APP simples de cadastro de séries em .NET/Bootcamps.Avenade.Series/obj/Debug/net5.0/Bootcamps.Avenade.Series.AssemblyInfoInputs.cache
+/home/matheusquost/Documentos/DIO/Bootcamps/Avenade/Criando um APP simples de cadastro de séries em .NET/Bootcamps.Avenade.Series/obj/Debug/net5.0/Bootcamps.Avenade.Series.AssemblyInfo.cs
+/home/matheusquost/Documentos/DIO/Bootcamps/Avenade/Criando um APP simples de cadastro de séries em .NET/Bootcamps.Avenade.Series/obj/Debug/net5.0/Bootcamps.Avenade.Series.csproj.CoreCompileInputs.cache
+/home/matheusquost/Documentos/DIO/Bootcamps/Avenade/Criando um APP simples de cadastro de séries em .NET/Bootcamps.Avenade.Series/obj/Debug/net5.0/Bootcamps.Avenade.Series.dll
+/home/matheusquost/Documentos/DIO/Bootcamps/Avenade/Criando um APP simples de cadastro de séries em .NET/Bootcamps.Avenade.Series/obj/Debug/net5.0/ref/Bootcamps.Avenade.Series.dll
+/home/matheusquost/Documentos/DIO/Bootcamps/Avenade/Criando um APP simples de cadastro de séries em .NET/Bootcamps.Avenade.Series/obj/Debug/net5.0/Bootcamps.Avenade.Series.pdb
+/home/matheusquost/Documentos/DIO/Bootcamps/Avenade/Criando um APP simples de cadastro de séries em .NET/Bootcamps.Avenade.Series/obj/Debug/net5.0/Bootcamps.Avenade.Series.genruntimeconfig.cache

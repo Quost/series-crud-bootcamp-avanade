@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Bootcamps.Avenade.Series/1.0.0": {
+        "runtime": {
+          "Bootcamps.Avenade.Series.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bootcamps.Avenade.Series/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
