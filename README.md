@@ -7,17 +7,17 @@ This bootcamp is available at [@digitalinnovationone](https://github.com/digital
 
 * What we can do with this CRUD:
 
-1- List series
-2- Insert new series
-3- Update a series
-4- Delete a series
-5- View a series
+1. List series
+2. Insert new series
+3. Update a series
+4. Delete a series
+5. View a series
 
 * Here is an example of how does it work by inserting a series
 
 ![Example of inserting a series](https://github.com/Quost/series-crud-bootcamp-avanade/blob/master/Images/insert.png)
 
-#Contato
+# Contato
 Matheus Quost
 
 [Linkedin](https://www.linkedin.com/in/matheusquost/), [Instagram](instagram.com/matheus_quost) e [Github](github.com/Quost).
