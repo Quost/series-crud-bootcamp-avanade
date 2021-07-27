@@ -1,4 +1,4 @@
-# series CRUD
+# Series CRUD
 
 'Avanade CodeAnywhere .NET' bootcamp activity for creating an in-memory series CRUD APP.
 This bootcamp is available at [@digitalinnovationone](https://github.com/digitalinnovationone) ([Digital Innovation One](https://web.digitalinnovation.one/))
